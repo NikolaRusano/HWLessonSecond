@@ -206,7 +206,7 @@ class ArithmCalc {
                 A1.ApplSecGrade = console.nextBoolean();
                 System.out.println("Availability of any Grade Apples:");
                 System.out.println(A1.BuyingApples(A1.ApplFirstGrade, A1.ApplSecGrade));
-            }else if (choise == 11){
+            }else if (choise == 0){
                 System.out.println("End of programm");
                 break;
             }else {
